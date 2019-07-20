@@ -1,2 +1,2 @@
-# Whatsapp-Cone
+# Whatsapp-Clone
 Whatsapp Clone using Flutter
